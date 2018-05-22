@@ -1,0 +1,46 @@
+<div class="container">
+	<div class="row">
+		<div class="col-md-12 text-center" id="top-bar">
+			<img src="/assets/images/list1.jpeg" style= "height:10em" />
+			<h1> What to do? </h1>
+		</div>
+		<div class="col-md-6 text-center" class="task">
+			<div class="row">
+			  {{#each todo_data}}
+			  	{{#unless this.done}}
+				<div class="col-md-9 text-center">
+					<pre>{{this.id}}. {{this.what_todo}}
+					</pre>
+				  		<!-- {{this.Date}} -->
+				</div>
+				<div class="col-md-3 text-center">
+					<form class="todo-form button-size">
+						<input input type="hidden" class="todo_id" type="text" value={{this.id}}><br>
+						<button type="submit" class="btn btn-default">Just Do It</button>
+					</form>
+				</div>
+				{{/unless}}
+			  {{/each}}
+			</div>
+		</div>
+		<div class="col-md-6 text-center" class="task">
+			  {{#each todo_data}}
+			  	{{#if this.done}}
+			  		<input class="form-control" type="text" placeholder="{{this.id}} . {{this.what_todo}}" readonly>
+				{{/if}}
+			  {{/each}}
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-12 text-center enter_section">
+			<form action="/todo/create" method="POST">
+				<input type="text" class="form-control" name="what_todo" value="" id="enter_text">
+				<button type="submit" class="btn btn-primary" id="text-enter-button">Submit</button>
+			</form>
+			<p>Click on "Just Do It" to move a task to the right!</p>
+		</div>
+	</div>
+</div>
