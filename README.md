@@ -10,7 +10,7 @@ Business Use Case:
 
 
 Screenshots
-<img src = "./public/assets/images/DatePicker.png" width="40">
+<img src = "./public/assets/images/DatePicker.png" width="200">
 
 Media Used
 
