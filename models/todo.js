@@ -16,7 +16,7 @@ var todofunction = {
   update: function(id, cb) {
     var condition = "id=" + id;
     orm.update("todo", {
-      devoured: true
+      done: true
     }, condition, cb);
   }
 };

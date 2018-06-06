@@ -11,7 +11,7 @@
 				<div class="col-md-9 text-center">
 					<pre>{{this.id}}. {{this.what_todo}}
 					</pre>
-				  		<!-- {{this.Date}} -->
+				  	
 				</div>
 				<div class="col-md-3 text-center">
 					<form class="todo-form button-size">
@@ -26,7 +26,7 @@
 		<div class="col-md-6 text-center" class="task">
 			  {{#each todo_data}}
 			  	{{#if this.done}}
-			  		<input class="form-control" type="text" placeholder="{{this.id}} . {{this.what_todo}}" readonly>
+			  		<input class="form-control" type="text" placeholder="{{this.id}} . {{this.what_todo}}">
 				{{/if}}
 			  {{/each}}
 		</div>
