@@ -1,5 +1,5 @@
 <!-- <img src = "./public/assets/img/Banner.png"> -->
-<img src = "./public/assets/img/Banner.png">
+<img src = "./public/assets/images/Banner.png">
 
 An app made by code bootcamp students allowing the user to send a text at a pre-determined time and date of their choice. 
 
@@ -10,7 +10,7 @@ Business Use Case:
 
 
 Screenshots
-<img src = "./public/assets/img/DatePicker.png">
+<img src = "./public/assets/images/DatePicker.png">
 
 Media Used
 
