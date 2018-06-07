@@ -1,27 +1,35 @@
 <!-- <img src = "./public/assets/img/Banner.png"> -->
 <img src = "./public/assets/images/Banner.png">
 
-An app made by code bootcamp students allowing the user to send a text at a pre-determined time and date of their choice. 
+Created during week 16 of Trilogy Bootcamp. REACH is an app allowing the user to send a text at a pre-determined time and date of their choice. 
 
-Personal Use Case: 
+### Link: <a href="https://app.xtensio.com/folio/s5ls38nj">Personal Use Case</a>
 
+### Link: Business Use Case 
 
-Business Use Case: 
+Features: 
+
+This Full Stack App Uses: 
+
+Twilio, Node, MySql, Sequelize, Handlebars, Materialize, Express
+
 
 
 Screenshots
+<img src = "./public/assets/images/Compose.png" width="400">
 <img src = "./public/assets/images/DatePicker.png" width="400">
-
-Media Used
-
-### Link: <a href="https://app.xtensio.com/folio/s5ls38nj">Persona</a>
-
-Contributors 
+<img src = "./public/assets/images/TimePicker.png" width="400">
+<img src = "./public/assets/images/Outbox.png" width="400">
+<img src = "./public/assets/images/Update-Outbox.png" width="400">
 
 
-THIS IS A TEST
+Authors
+Brandon Vreeman
+Majid 
+Saundra
+Thom 
 
 
-Start Texting now: 
+EmojiCode "Get out there and start texting"  
 
-![Alt Text] (https://giphy.com/embed/l0HlHlV6OXkzE1EQM.gif)
+
