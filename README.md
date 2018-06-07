@@ -2,9 +2,8 @@
 <img src = "./public/assets/images/Banner.png">
 
  ### Created during week 16 of Trilogy Bootcamp. REACH is an app allowing the user to send a text at a pre-determined time and date of their choice. 
-
-### Link: <a href="https://app.xtensio.com/folio/s5ls38nj">Personal Use Case</a>
-### Link: <a href="https://app.xtensio.com/folio/s5ls38nj">Business  Use Case</a>
+###<a href="https://app.xtensio.com/folio/s5ls38nj">Personal Use Case</a>
+###<a href="https://app.xtensio.com/folio/s5ls38nj">Business  Use Case</a>
 
 
 Features: 
