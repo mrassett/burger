@@ -10,24 +10,24 @@ Features:
 
 ### Reach is a full-stack app incorporating:
 
-<img src= "./public/assets/images/logos.png">
+<img src= "./public/assets/images/logos.png" width="600">
 <!-- <img src= "./public/assets/images/Materialize.png" width="100"> -->
 
 
 
 ## SCREENSHOTS
 <br>
-* Compose a message
+Compose a message
 <img src = "./public/assets/images/Compose.png" width="600">
 <br>
-* Choose a date and time
+Choose a date and time
 <img src = "./public/assets/images/DatePicker.png" width="350" height= "200">
 <img src = "./public/assets/images/TimePicker.png" width="350" height= "200">
 <br>
-* View your pending outbox
+View your pending outbox
 <img src = "./public/assets/images/Outbox.png" width="600">
 <br>
-* Edit pending texts
+Edit pending texts
 <img src = "./public/assets/images/Outbox-Update.png" width="600">
 
 
@@ -40,9 +40,5 @@ Features:
 
 ```Get out there and start texting!``` :iphone:
 
-
-
-
-> Get out there and start texting! :iphone:
 
 
