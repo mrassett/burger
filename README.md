@@ -18,9 +18,8 @@ Twilio, Node, MySql, Sequelize, Handlebars, Materialize, Express
 Screenshots
 <img src = "./public/assets/images/Compose.png" width="400">
 <img src = "./public/assets/images/DatePicker.png" width="400">
-<img src = "./public/assets/images/TimePicker.png" width="400">
 <img src = "./public/assets/images/Outbox.png" width="400">
-<img src = "./public/assets/images/Update-Outbox.png" width="400">
+<img src = "./public/assets/images/Outbox-Update.png" width="400">
 
 
 Authors
