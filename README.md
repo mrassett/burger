@@ -1,8 +1,9 @@
 <!-- <img src = "./public/assets/img/Banner.png"> -->
 <img src = "./public/assets/images/Banner.png">
-<br>
 
 ## Hosted on Heroku <a href="https://arcane-bastion-12475.herokuapp.com/">Here
+
+<br>
 
 ## Created during week 16 of Trilogy Bootcamp. REACH is an app allowing the user to send a text at a pre-determined time and date of their choice. 
 
