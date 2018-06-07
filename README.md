@@ -24,4 +24,4 @@ THIS IS A TEST
 
 Start Texting now: 
 
-### Link: <iframe src="https://giphy.com/embed/l0HlHlV6OXkzE1EQM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Alt Text] (https://giphy.com/embed/l0HlHlV6OXkzE1EQM.gif)
