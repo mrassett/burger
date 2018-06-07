@@ -12,17 +12,17 @@ Features:
 This Full Stack App Uses: 
 
 Twilio, Node, MySql, Sequelize, Handlebars, Materialize, Express
-<img src = "./public/assets/images/MySQL.png" width="400">
-<img src = "./public/assets/images/Twilio.png" width="400">
-<img src = "./public/assets/images/Materialize.png" width="400">
+<img src = "./public/assets/images/MySQL.png">
+<img src = "./public/assets/images/Twilio.png">
+<img src= "./public/assets/images/Materialize.png">
 
 
 
 Screenshots
-<img src = "./public/assets/images/Compose.png" width="400">
-<img src = "./public/assets/images/DatePicker.png" width="400">
-<img src = "./public/assets/images/Outbox.png" width="400">
-<img src = "./public/assets/images/Outbox-Update.png" width="400">
+<img src = "./public/assets/images/Compose.png">
+<img src = "./public/assets/images/DatePicker.png">
+<img src = "./public/assets/images/Outbox.png">
+<img src = "./public/assets/images/Outbox-Update.png">
 
 
 Authors
