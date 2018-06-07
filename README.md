@@ -12,6 +12,9 @@ Features:
 This Full Stack App Uses: 
 
 Twilio, Node, MySql, Sequelize, Handlebars, Materialize, Express
+<img src = "./public/assets/images/MySQL.png" width="400">
+<img src = "./public/assets/images/Twilio.png" width="400">
+<img src = "./public/assets/images/Materialize.png" width="400">
 
 
 
