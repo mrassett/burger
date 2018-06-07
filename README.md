@@ -1,21 +1,18 @@
 <!-- <img src = "./public/assets/img/Banner.png"> -->
 <img src = "./public/assets/images/Banner.png">
 <br>
-
-## Hosted on Heroku <a href="https://app.xtensio.com/folio/s5ls38nj">Here</a>
-
+## Hosted on Heroku <a href="https://arcane-bastion-12475.herokuapp.com/">Here</a>
 <br>
 
 ## Created during week 16 of Trilogy Bootcamp. REACH is an app allowing the user to send a text at a pre-determined time and date of their choice. 
 
-<br>
 
  > Made by busy people, for busy people. REACH's clean user interface and self-explanatory fields allow entrepenuers and spontaneous users alike to make the most out of the time we spend on our cell phones
 
 <br>
 
-###### <a href="https://app.xtensio.com/folio/s5ls38nj">Personal Use Case</a>
-###### <a href="https://app.xtensio.com/folio/s5ls38nj">Business Use Case</a>
+## <a href="https://app.xtensio.com/folio/s5ls38nj">Personal Use Case</a>
+## <a href="https://app.xtensio.com/folio/s5ls38nj">Business Use Case</a>
 
 ## Features: 
 1. Validation in the phone number, message, and date/time fields to ensure foolproof texting. 
