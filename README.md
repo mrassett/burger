@@ -24,4 +24,4 @@ THIS IS A TEST
 
 Start Texting now: 
 
-### Link: <iframe src="https://giphy.com/embed/l0HlHlV6OXkzE1EQM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tkaymaidza-tkay-maidza-l0HlHlV6OXkzE1EQM"></a></p>Persona</a>
+### Link: <iframe src="https://giphy.com/embed/l0HlHlV6OXkzE1EQM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
