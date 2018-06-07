@@ -10,19 +10,18 @@ Business Use Case:
 
 
 Screenshots
-<img src = "./public/assets/images/DatePicker.png" width="200">
+<img src = "./public/assets/images/DatePicker.png" width="400">
 
 Media Used
 
-
+### Link: <a href="https://app.xtensio.com/folio/s5ls38nj">Persona</a>
 
 Contributors 
 
 
-
+THIS IS A TEST
 
 
 Start Texting now: 
 
-
-<iframe src="https://giphy.com/embed/l0HlHlV6OXkzE1EQM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tkaymaidza-tkay-maidza-l0HlHlV6OXkzE1EQM">via GIPHY</a></p>
+### Link: <iframe src="https://giphy.com/embed/l0HlHlV6OXkzE1EQM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tkaymaidza-tkay-maidza-l0HlHlV6OXkzE1EQM"></a></p>Persona</a>
